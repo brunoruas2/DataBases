@@ -1,2 +1,4 @@
 # DataBases
- Meus estudos em Banco de Dados
+ All my notes in Data Base technologies
+
+# SQL
