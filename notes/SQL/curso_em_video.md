@@ -50,8 +50,6 @@ Soluções de Bancos SQL:
 
 </details>
 
-<br/>
-
 ---
 
 <details>
