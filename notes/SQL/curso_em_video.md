@@ -1,6 +1,12 @@
 Curso de Banco de Dados MySQL
 
-# Aula 01 - O que é um Banco de Dados
+<details>
+<summary>
+    <font size=5> Aula 01 - O que é um Banco de Dados </font>
+</summary>
+
+<br/>
+
 [Link da aula](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 
 <br />
@@ -40,3 +46,20 @@ Soluções de Bancos SQL:
 1. MariaDB (free)
 1. Firebird (free)
 1. PostgreSQL (free)
+
+</details>
+
+---
+
+<details open>
+<summary>
+    <font size=5> Aula 02 - Instalando o MySQL com WAMP </font>
+</summary>
+
+<br/>
+
+[link da aula](https://www.youtube.com/watch?v=5JbAOWJbgIA&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r&index=2)
+
+<br/>
+
+</details>
