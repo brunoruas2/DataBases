@@ -106,8 +106,6 @@ No console, digite `status` pra ver se tá funcionando bem.
 
 ---
 
-<br/>
-
 <details open>
 <summary>
     <font size=5> Aula 03 - Criando o primeiro Banco de Dados </font>
