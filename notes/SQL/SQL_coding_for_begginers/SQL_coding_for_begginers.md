@@ -22,9 +22,6 @@
 
 <br />
 
-- [ ] A
-  - [x] b
-
 There are four groups of features that most of DBMS currently offer:
  - Data Definition
  - Update
